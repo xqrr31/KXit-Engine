@@ -1,0 +1,36 @@
+{
+  "width": 128,
+  "height": 128,
+  "tileSize": 16,
+  "columns": 8,
+  "rows": 8,
+  "origin": "top-left PNG tile coordinates",
+  "blocks": {
+    "1": { "name": "grass", "top": 0, "side": 4, "bottom": 5 },
+    "2": { "name": "stone", "all": 1 },
+    "3": { "name": "cobblestone", "all": 2 },
+    "4": { "name": "planks", "all": 3 },
+    "5": { "name": "dirt", "all": 5 },
+    "6": { "name": "leaves", "all": 6 },
+    "7": { "name": "wood", "all": 7 },
+    "8": { "name": "sand", "all": 8 }
+  },
+  "tiles": {
+    "0": "grass_top",
+    "1": "stone",
+    "2": "cobblestone",
+    "3": "planks",
+    "4": "grass_side",
+    "5": "dirt",
+    "6": "leaves",
+    "7": "wood_bark",
+    "8": "sand",
+    "9": "water",
+    "10": "bricks",
+    "11": "gravel",
+    "12": "log_end",
+    "13": "snow",
+    "14": "iron_ore",
+    "15": "coal_ore"
+  }
+}
